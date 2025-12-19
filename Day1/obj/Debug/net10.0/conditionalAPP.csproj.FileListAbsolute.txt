@@ -1,0 +1,14 @@
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\bin\Debug\net10.0\conditionalAPP.exe
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\bin\Debug\net10.0\conditionalAPP.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\bin\Debug\net10.0\conditionalAPP.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\bin\Debug\net10.0\conditionalAPP.dll
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\bin\Debug\net10.0\conditionalAPP.pdb
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\obj\Debug\net10.0\conditionalAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\obj\Debug\net10.0\conditionalAPP.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\obj\Debug\net10.0\conditionalAPP.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\obj\Debug\net10.0\conditionalAPP.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\obj\Debug\net10.0\conditionalAPP.dll
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\obj\Debug\net10.0\refint\conditionalAPP.dll
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\obj\Debug\net10.0\conditionalAPP.pdb
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\obj\Debug\net10.0\conditionalAPP.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\capegemini\conditionalAPP\obj\Debug\net10.0\ref\conditionalAPP.dll
