@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\bin\Debug\net10.0\Interfaceddemoproj.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\bin\Debug\net10.0\Interfaceddemoproj.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\bin\Debug\net10.0\Interfaceddemoproj.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\bin\Debug\net10.0\Interfaceddemoproj.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\bin\Debug\net10.0\Interfaceddemoproj.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\obj\Debug\net10.0\Interfaceddemoproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\obj\Debug\net10.0\Interfaceddemoproj.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\obj\Debug\net10.0\Interfaceddemoproj.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\obj\Debug\net10.0\Interfaceddemoproj.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\obj\Debug\net10.0\Interfaceddemoproj.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\obj\Debug\net10.0\Interfaceddemoproj.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\obj\Debug\net10.0\refint\Interfaceddemoproj.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\obj\Debug\net10.0\Interfaceddemoproj.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\obj\Debug\net10.0\Interfaceddemoproj.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day4\Interfaceddemoproj\obj\Debug\net10.0\ref\Interfaceddemoproj.dll
