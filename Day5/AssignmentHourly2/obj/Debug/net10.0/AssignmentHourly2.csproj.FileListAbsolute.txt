@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\obj\Debug\net10.0\AssignmentHourly2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\obj\Debug\net10.0\AssignmentHourly2.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\obj\Debug\net10.0\AssignmentHourly2.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\obj\Debug\net10.0\AssignmentHourly2.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\obj\Debug\net10.0\AssignmentHourly2.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\bin\Debug\net10.0\AssignmentHourly2.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\bin\Debug\net10.0\AssignmentHourly2.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\bin\Debug\net10.0\AssignmentHourly2.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\bin\Debug\net10.0\AssignmentHourly2.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\bin\Debug\net10.0\AssignmentHourly2.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\obj\Debug\net10.0\AssignmentHourly2.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\obj\Debug\net10.0\refint\AssignmentHourly2.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\obj\Debug\net10.0\AssignmentHourly2.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\obj\Debug\net10.0\AssignmentHourly2.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly2\obj\Debug\net10.0\ref\AssignmentHourly2.dll
