@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\obj\Debug\net10.0\AssignmentHourly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\obj\Debug\net10.0\AssignmentHourly.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\obj\Debug\net10.0\AssignmentHourly.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\obj\Debug\net10.0\AssignmentHourly.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\obj\Debug\net10.0\AssignmentHourly.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\bin\Debug\net10.0\AssignmentHourly.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\bin\Debug\net10.0\AssignmentHourly.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\bin\Debug\net10.0\AssignmentHourly.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\bin\Debug\net10.0\AssignmentHourly.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\bin\Debug\net10.0\AssignmentHourly.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\obj\Debug\net10.0\AssignmentHourly.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\obj\Debug\net10.0\refint\AssignmentHourly.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\obj\Debug\net10.0\AssignmentHourly.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\obj\Debug\net10.0\AssignmentHourly.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day5\AssignmentHourly\obj\Debug\net10.0\ref\AssignmentHourly.dll
