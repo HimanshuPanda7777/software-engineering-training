@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\obj\Debug\net10.0\PracticeQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\obj\Debug\net10.0\PracticeQuestions.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\obj\Debug\net10.0\PracticeQuestions.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\obj\Debug\net10.0\PracticeQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\obj\Debug\net10.0\PracticeQuestions.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\bin\Debug\net10.0\PracticeQuestions.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\bin\Debug\net10.0\PracticeQuestions.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\bin\Debug\net10.0\PracticeQuestions.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\bin\Debug\net10.0\PracticeQuestions.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\bin\Debug\net10.0\PracticeQuestions.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\obj\Debug\net10.0\PracticeQuestions.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\obj\Debug\net10.0\refint\PracticeQuestions.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\obj\Debug\net10.0\PracticeQuestions.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\obj\Debug\net10.0\PracticeQuestions.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day6\PracticeQuestions\obj\Debug\net10.0\ref\PracticeQuestions.dll
