@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\bin\Debug\net10.0\MediSureQuestion1.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\bin\Debug\net10.0\MediSureQuestion1.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\bin\Debug\net10.0\MediSureQuestion1.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\bin\Debug\net10.0\MediSureQuestion1.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\bin\Debug\net10.0\MediSureQuestion1.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\obj\Debug\net10.0\MediSureQuestion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\obj\Debug\net10.0\MediSureQuestion1.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\obj\Debug\net10.0\MediSureQuestion1.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\obj\Debug\net10.0\MediSureQuestion1.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\obj\Debug\net10.0\MediSureQuestion1.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\obj\Debug\net10.0\MediSureQuestion1.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\obj\Debug\net10.0\refint\MediSureQuestion1.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\obj\Debug\net10.0\MediSureQuestion1.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\obj\Debug\net10.0\MediSureQuestion1.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\MediSureQuestion1\obj\Debug\net10.0\ref\MediSureQuestion1.dll
