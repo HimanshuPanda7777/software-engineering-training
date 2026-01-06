@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\bin\Debug\net10.0\DemoOnCollection.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\bin\Debug\net10.0\DemoOnCollection.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\bin\Debug\net10.0\DemoOnCollection.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\bin\Debug\net10.0\DemoOnCollection.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\bin\Debug\net10.0\DemoOnCollection.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\obj\Debug\net10.0\DemoOnCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\obj\Debug\net10.0\DemoOnCollection.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\obj\Debug\net10.0\DemoOnCollection.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\obj\Debug\net10.0\DemoOnCollection.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\obj\Debug\net10.0\DemoOnCollection.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\obj\Debug\net10.0\DemoOnCollection.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\obj\Debug\net10.0\refint\DemoOnCollection.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\obj\Debug\net10.0\DemoOnCollection.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\obj\Debug\net10.0\DemoOnCollection.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day9\DemoOnCollection\obj\Debug\net10.0\ref\DemoOnCollection.dll

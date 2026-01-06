@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\obj\Debug\net10.0\QuickMartQuestion2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\obj\Debug\net10.0\QuickMartQuestion2.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\obj\Debug\net10.0\QuickMartQuestion2.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\obj\Debug\net10.0\QuickMartQuestion2.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\obj\Debug\net10.0\QuickMartQuestion2.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\bin\Debug\net10.0\QuickMartQuestion2.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\bin\Debug\net10.0\QuickMartQuestion2.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\bin\Debug\net10.0\QuickMartQuestion2.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\bin\Debug\net10.0\QuickMartQuestion2.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\bin\Debug\net10.0\QuickMartQuestion2.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\obj\Debug\net10.0\QuickMartQuestion2.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\obj\Debug\net10.0\refint\QuickMartQuestion2.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\obj\Debug\net10.0\QuickMartQuestion2.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\obj\Debug\net10.0\QuickMartQuestion2.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_27thDec\QuickMartQuestion2\obj\Debug\net10.0\ref\QuickMartQuestion2.dll

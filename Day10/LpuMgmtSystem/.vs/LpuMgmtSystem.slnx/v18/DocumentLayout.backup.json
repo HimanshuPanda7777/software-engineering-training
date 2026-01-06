@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6A13-4B22-4A70-9F10-5A19BE8D6141}|LPU_Common\\LPU_Common.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day10\\lpumgmtsystem\\lpu_common\\lpu_common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CCA6A13-4B22-4A70-9F10-5A19BE8D6141}|LPU_Common\\LPU_Common.csproj|solutionrelative:lpu_common\\lpu_common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CCA6A13-4B22-4A70-9F10-5A19BE8D6141}|LPU_Common\\LPU_Common.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day10\\lpumgmtsystem\\lpu_common\\istudentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CCA6A13-4B22-4A70-9F10-5A19BE8D6141}|LPU_Common\\LPU_Common.csproj|solutionrelative:lpu_common\\istudentcrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18317590-9BAD-F9A4-5DDE-7BA01CBAC2FF}|LPU_DAL\\LPU_DAL.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day10\\lpumgmtsystem\\lpu_dal\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18317590-9BAD-F9A4-5DDE-7BA01CBAC2FF}|LPU_DAL\\LPU_DAL.csproj|solutionrelative:lpu_dal\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AC72A12-F472-6FB3-B6A5-F8480A01BBE4}|LPU_Entity\\LPU_Entity.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day10\\lpumgmtsystem\\lpu_entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AC72A12-F472-6FB3-B6A5-F8480A01BBE4}|LPU_Entity\\LPU_Entity.csproj|solutionrelative:lpu_entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DAB4FF3-6B18-9396-C8C7-E684C346A639}|LPU_UI\\LPU_UI.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day10\\lpumgmtsystem\\lpu_ui\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DAB4FF3-6B18-9396-C8C7-E684C346A639}|LPU_UI\\LPU_UI.csproj|solutionrelative:lpu_ui\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCCE68B-AD7D-4DF6-7ABB-D3AF64EFC98E}|LPU_Exception\\LPU_Exception.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day10\\lpumgmtsystem\\lpu_exception\\lpu_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABCCE68B-AD7D-4DF6-7ABB-D3AF64EFC98E}|LPU_Exception\\LPU_Exception.csproj|solutionrelative:lpu_exception\\lpu_exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBB25303-FE64-FFE7-E1FB-9962751CDBA1}|LpuMgmtSystem\\LPU_BL.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day10\\lpumgmtsystem\\lpumgmtsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBB25303-FE64-FFE7-E1FB-9962751CDBA1}|LpuMgmtSystem\\LPU_BL.csproj|solutionrelative:lpumgmtsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LPU_Common",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_Common\\LPU_Common.csproj",
+              "RelativeDocumentMoniker": "LPU_Common\\LPU_Common.csproj",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_Common\\LPU_Common.csproj",
+              "RelativeToolTip": "LPU_Common\\LPU_Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T09:03:27.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudentCRUD.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_Common\\IStudentCRUD.cs",
+              "RelativeDocumentMoniker": "LPU_Common\\IStudentCRUD.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_Common\\IStudentCRUD.cs",
+              "RelativeToolTip": "LPU_Common\\IStudentCRUD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:02:21.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_UI\\Class1.cs",
+              "RelativeDocumentMoniker": "LPU_UI\\Class1.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_UI\\Class1.cs",
+              "RelativeToolTip": "LPU_UI\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T06:00:25.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_Entity\\Student.cs",
+              "RelativeDocumentMoniker": "LPU_Entity\\Student.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_Entity\\Student.cs",
+              "RelativeToolTip": "LPU_Entity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T06:00:09.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LPU_Exception.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_Exception\\LPU_Exception.cs",
+              "RelativeDocumentMoniker": "LPU_Exception\\LPU_Exception.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_Exception\\LPU_Exception.cs",
+              "RelativeToolTip": "LPU_Exception\\LPU_Exception.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:59:47.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDao.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_DAL\\StudentDao.cs",
+              "RelativeDocumentMoniker": "LPU_DAL\\StudentDao.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LPU_DAL\\StudentDao.cs",
+              "RelativeToolTip": "LPU_DAL\\StudentDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:59:26.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LpuMgmtSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LpuMgmtSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day10\\LpuMgmtSystem\\LpuMgmtSystem\\Program.cs",
+              "RelativeToolTip": "LpuMgmtSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T05:57:17.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
