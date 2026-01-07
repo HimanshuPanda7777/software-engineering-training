@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\bin\Debug\net10.0\DigitalPettyCashLedger.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\bin\Debug\net10.0\DigitalPettyCashLedger.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\bin\Debug\net10.0\DigitalPettyCashLedger.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\bin\Debug\net10.0\DigitalPettyCashLedger.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\bin\Debug\net10.0\DigitalPettyCashLedger.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\obj\Debug\net10.0\refint\DigitalPettyCashLedger.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\obj\Debug\net10.0\DigitalPettyCashLedger.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment_7thJan\DigitalPettyCashLedger\obj\Debug\net10.0\ref\DigitalPettyCashLedger.dll
