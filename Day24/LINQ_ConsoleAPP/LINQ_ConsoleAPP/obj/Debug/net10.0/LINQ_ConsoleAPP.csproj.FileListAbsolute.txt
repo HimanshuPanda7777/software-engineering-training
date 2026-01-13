@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\obj\Debug\net10.0\LINQ_ConsoleAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\obj\Debug\net10.0\LINQ_ConsoleAPP.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\obj\Debug\net10.0\LINQ_ConsoleAPP.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\obj\Debug\net10.0\LINQ_ConsoleAPP.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\obj\Debug\net10.0\LINQ_ConsoleAPP.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\bin\Debug\net10.0\LINQ_ConsoleAPP.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\bin\Debug\net10.0\LINQ_ConsoleAPP.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\bin\Debug\net10.0\LINQ_ConsoleAPP.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\bin\Debug\net10.0\LINQ_ConsoleAPP.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\bin\Debug\net10.0\LINQ_ConsoleAPP.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\obj\Debug\net10.0\LINQ_ConsoleAPP.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\obj\Debug\net10.0\refint\LINQ_ConsoleAPP.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\obj\Debug\net10.0\LINQ_ConsoleAPP.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\obj\Debug\net10.0\LINQ_ConsoleAPP.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day24\LINQ_ConsoleAPP\LINQ_ConsoleAPP\obj\Debug\net10.0\ref\LINQ_ConsoleAPP.dll
