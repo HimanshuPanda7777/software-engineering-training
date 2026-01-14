@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\obj\Debug\net10.0\LINQ_Assesment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\obj\Debug\net10.0\LINQ_Assesment.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\obj\Debug\net10.0\LINQ_Assesment.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\obj\Debug\net10.0\LINQ_Assesment.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\obj\Debug\net10.0\LINQ_Assesment.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\bin\Debug\net10.0\LINQ_Assesment.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\bin\Debug\net10.0\LINQ_Assesment.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\bin\Debug\net10.0\LINQ_Assesment.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\bin\Debug\net10.0\LINQ_Assesment.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\bin\Debug\net10.0\LINQ_Assesment.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\obj\Debug\net10.0\LINQ_Assesment.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\obj\Debug\net10.0\refint\LINQ_Assesment.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\obj\Debug\net10.0\LINQ_Assesment.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\obj\Debug\net10.0\LINQ_Assesment.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment3_14thJan\LINQ_Assesment\obj\Debug\net10.0\ref\LINQ_Assesment.dll
