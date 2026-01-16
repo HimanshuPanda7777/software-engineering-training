@@ -1,0 +1,5 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day26\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.csproj.AssemblyReference.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day26\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.Form1.resources
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day26\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.Properties.Resources.resources
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day26\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.csproj.GenerateResource.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day26\WinReflectionDemo\WinReflectionDemo\obj\Debug\WinReflectionDemo.csproj.CoreCompileInputs.cache
