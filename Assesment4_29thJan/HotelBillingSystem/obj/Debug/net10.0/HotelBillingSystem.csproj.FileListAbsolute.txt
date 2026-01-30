@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\bin\Debug\net10.0\HotelBillingSystem.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\bin\Debug\net10.0\HotelBillingSystem.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\bin\Debug\net10.0\HotelBillingSystem.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\bin\Debug\net10.0\HotelBillingSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\bin\Debug\net10.0\HotelBillingSystem.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\obj\Debug\net10.0\refint\HotelBillingSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\obj\Debug\net10.0\HotelBillingSystem.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment4_29thJan\HotelBillingSystem\obj\Debug\net10.0\ref\HotelBillingSystem.dll
