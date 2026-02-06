@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\bin\Debug\net10.0\CommonCharacters.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\bin\Debug\net10.0\CommonCharacters.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\bin\Debug\net10.0\CommonCharacters.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\bin\Debug\net10.0\CommonCharacters.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\bin\Debug\net10.0\CommonCharacters.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\obj\Debug\net10.0\CommonCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\obj\Debug\net10.0\CommonCharacters.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\obj\Debug\net10.0\CommonCharacters.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\obj\Debug\net10.0\CommonCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\obj\Debug\net10.0\CommonCharacters.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\obj\Debug\net10.0\CommonCharacters.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\obj\Debug\net10.0\refint\CommonCharacters.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\obj\Debug\net10.0\CommonCharacters.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\obj\Debug\net10.0\CommonCharacters.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task6\CommonCharacters\obj\Debug\net10.0\ref\CommonCharacters.dll
