@@ -15,7 +15,7 @@ namespace FlightSearchEngine.Models
         [Range(1, 10, ErrorMessage = "Number of persons must be between 1 and 10")]
         public int NumberOfPersons { get; set; }
 
-        public SelectList SourceList { get; set; }
-        public SelectList DestinationList { get; set; }
+        public SelectList? SourceList { get; set; }
+        public SelectList? DestinationList { get; set; }
     }
 }
