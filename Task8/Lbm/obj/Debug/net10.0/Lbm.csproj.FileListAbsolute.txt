@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\bin\Debug\net10.0\Lbm.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\bin\Debug\net10.0\Lbm.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\bin\Debug\net10.0\Lbm.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\bin\Debug\net10.0\Lbm.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\bin\Debug\net10.0\Lbm.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\obj\Debug\net10.0\Lbm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\obj\Debug\net10.0\Lbm.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\obj\Debug\net10.0\Lbm.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\obj\Debug\net10.0\Lbm.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\obj\Debug\net10.0\Lbm.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\obj\Debug\net10.0\Lbm.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\obj\Debug\net10.0\refint\Lbm.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\obj\Debug\net10.0\Lbm.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\obj\Debug\net10.0\Lbm.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\task8\Lbm\obj\Debug\net10.0\ref\Lbm.dll

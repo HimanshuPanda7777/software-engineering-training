@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\bin\Debug\net10.0\BikeRentalApp.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\obj\Debug\net10.0\refint\BikeRentalApp.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\obj\Debug\net10.0\BikeRentalApp.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task3_29thjan\BikeRentalApp\obj\Debug\net10.0\ref\BikeRentalApp.dll

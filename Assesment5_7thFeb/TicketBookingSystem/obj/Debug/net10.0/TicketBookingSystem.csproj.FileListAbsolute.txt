@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\bin\Debug\net10.0\TicketBookingSystem.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\bin\Debug\net10.0\TicketBookingSystem.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\bin\Debug\net10.0\TicketBookingSystem.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\bin\Debug\net10.0\TicketBookingSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\bin\Debug\net10.0\TicketBookingSystem.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\obj\Debug\net10.0\TicketBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\obj\Debug\net10.0\TicketBookingSystem.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\obj\Debug\net10.0\TicketBookingSystem.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\obj\Debug\net10.0\TicketBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\obj\Debug\net10.0\TicketBookingSystem.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\obj\Debug\net10.0\TicketBookingSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\obj\Debug\net10.0\refint\TicketBookingSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\obj\Debug\net10.0\TicketBookingSystem.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\obj\Debug\net10.0\TicketBookingSystem.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\TicketBookingSystem\obj\Debug\net10.0\ref\TicketBookingSystem.dll

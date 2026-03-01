@@ -1,0 +1,6 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day26\CodeForUnitTesting\CalculatorService\bin\Debug\CalculatorService.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day26\CodeForUnitTesting\CalculatorService\bin\Debug\CalculatorService.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day26\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.csproj.AssemblyReference.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day26\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day26\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day26\CodeForUnitTesting\CalculatorService\obj\Debug\CalculatorService.pdb

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day50\\ConArchDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5F76F-141C-89F9-E67E-C0D0D0BC071D}|ConArchDemo\\ConArchDemo.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day50\\conarchdemo\\conarchdemo\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5F76F-141C-89F9-E67E-C0D0D0BC071D}|ConArchDemo\\ConArchDemo.csproj|solutionrelative:conarchdemo\\studentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B5F76F-141C-89F9-E67E-C0D0D0BC071D}|ConArchDemo\\ConArchDemo.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day50\\conarchdemo\\conarchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65B5F76F-141C-89F9-E67E-C0D0D0BC071D}|ConArchDemo\\ConArchDemo.csproj|solutionrelative:conarchdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDAl.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day50\\ConArchDemo\\ConArchDemo\\StudentDAl.cs",
+              "RelativeDocumentMoniker": "ConArchDemo\\StudentDAl.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day50\\ConArchDemo\\ConArchDemo\\StudentDAl.cs",
+              "RelativeToolTip": "ConArchDemo\\StudentDAl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T06:15:03.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day50\\ConArchDemo\\ConArchDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ConArchDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day50\\ConArchDemo\\ConArchDemo\\Program.cs",
+              "RelativeToolTip": "ConArchDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:40:11.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

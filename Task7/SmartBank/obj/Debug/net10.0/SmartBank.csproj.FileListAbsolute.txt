@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\bin\Debug\net10.0\SmartBank.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\bin\Debug\net10.0\SmartBank.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\bin\Debug\net10.0\SmartBank.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\bin\Debug\net10.0\SmartBank.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\bin\Debug\net10.0\SmartBank.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\obj\Debug\net10.0\SmartBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\obj\Debug\net10.0\SmartBank.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\obj\Debug\net10.0\SmartBank.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\obj\Debug\net10.0\SmartBank.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\obj\Debug\net10.0\SmartBank.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\obj\Debug\net10.0\SmartBank.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\obj\Debug\net10.0\refint\SmartBank.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\obj\Debug\net10.0\SmartBank.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\obj\Debug\net10.0\SmartBank.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task7\SmartBank\obj\Debug\net10.0\ref\SmartBank.dll

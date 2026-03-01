@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day26\\CodeForUnitTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{121B4593-857C-4E97-A576-F711B0D91178}|UnitTestProject1\\UnitTestProject1.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day26\\codeforunittesting\\unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121B4593-857C-4E97-A576-F711B0D91178}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{510CBBFB-690D-4AB2-9DF6-700116C7AB58}|NunitTestProject1\\NunitTestProject1.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day26\\codeforunittesting\\nunittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{510CBBFB-690D-4AB2-9DF6-700116C7AB58}|NunitTestProject1\\NunitTestProject1.csproj|solutionrelative:nunittestproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4476CC8-ED40-43D1-B493-AAD7687C3236}|CalculatorService\\CalculatorService.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day26\\codeforunittesting\\calculatorservice\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4476CC8-ED40-43D1-B493-AAD7687C3236}|CalculatorService\\CalculatorService.csproj|solutionrelative:calculatorservice\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EDCD0-C333-4A39-B0D6-3AB071233F19}|MSTestProject1\\MSTestProject1.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day26\\codeforunittesting\\mstestproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79EDCD0-C333-4A39-B0D6-3AB071233F19}|MSTestProject1\\MSTestProject1.csproj|solutionrelative:mstestproject1\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79EDCD0-C333-4A39-B0D6-3AB071233F19}|MSTestProject1\\MsUnitTestProject1.csproj|c:\\users\\himanshu\\onedrive\\desktop\\capegemini_leftshiftprogramme\\day26\\codeforunittesting\\mstestproject1\\msunittestproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F79EDCD0-C333-4A39-B0D6-3AB071233F19}|MSTestProject1\\MsUnitTestProject1.csproj|solutionrelative:mstestproject1\\msunittestproject1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MsUnitTestProject1.csproj",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day26\\CodeForUnitTesting\\MSTestProject1\\MsUnitTestProject1.csproj",
+              "RelativeDocumentMoniker": "MSTestProject1\\MsUnitTestProject1.csproj",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day26\\CodeForUnitTesting\\MSTestProject1\\MsUnitTestProject1.csproj",
+              "RelativeToolTip": "MSTestProject1\\MsUnitTestProject1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-29T06:57:27.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day26\\CodeForUnitTesting\\MSTestProject1\\Test1.cs",
+              "RelativeDocumentMoniker": "MSTestProject1\\Test1.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day26\\CodeForUnitTesting\\MSTestProject1\\Test1.cs",
+              "RelativeToolTip": "MSTestProject1\\Test1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:56:06.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day26\\CodeForUnitTesting\\NunitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NunitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day26\\CodeForUnitTesting\\NunitTestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "NunitTestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:39:01.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day26\\CodeForUnitTesting\\UnitTestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day26\\CodeForUnitTesting\\UnitTestProject1\\UnitTest1.cs*",
+              "RelativeToolTip": "UnitTestProject1\\UnitTest1.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T06:34:20.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day26\\CodeForUnitTesting\\CalculatorService\\Calculator.cs",
+              "RelativeDocumentMoniker": "CalculatorService\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Himanshu\\OneDrive\\Desktop\\Capegemini_LeftShiftProgramme\\Day26\\CodeForUnitTesting\\CalculatorService\\Calculator.cs",
+              "RelativeToolTip": "CalculatorService\\Calculator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA4wAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T05:56:46.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

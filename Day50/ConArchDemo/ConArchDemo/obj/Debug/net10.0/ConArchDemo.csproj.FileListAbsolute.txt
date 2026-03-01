@@ -1,0 +1,5 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day50\ConArchDemo\ConArchDemo\obj\Debug\net10.0\ConArchDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day50\ConArchDemo\ConArchDemo\obj\Debug\net10.0\ConArchDemo.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day50\ConArchDemo\ConArchDemo\obj\Debug\net10.0\ConArchDemo.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day50\ConArchDemo\ConArchDemo\obj\Debug\net10.0\ConArchDemo.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Day50\ConArchDemo\ConArchDemo\obj\Debug\net10.0\ConArchDemo.sourcelink.json

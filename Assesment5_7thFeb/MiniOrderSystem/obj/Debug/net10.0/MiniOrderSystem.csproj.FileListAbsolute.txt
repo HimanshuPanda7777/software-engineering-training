@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\bin\Debug\net10.0\MiniOrderSystem.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\obj\Debug\net10.0\refint\MiniOrderSystem.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\obj\Debug\net10.0\MiniOrderSystem.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Assesment5_7thFeb\MiniOrderSystem\obj\Debug\net10.0\ref\MiniOrderSystem.dll

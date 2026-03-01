@@ -1,0 +1,15 @@
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\obj\Debug\net10.0\EmployeeSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\obj\Debug\net10.0\EmployeeSalary.AssemblyInfoInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\obj\Debug\net10.0\EmployeeSalary.AssemblyInfo.cs
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\obj\Debug\net10.0\EmployeeSalary.csproj.CoreCompileInputs.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\obj\Debug\net10.0\EmployeeSalary.sourcelink.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\bin\Debug\net10.0\EmployeeSalary.exe
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\bin\Debug\net10.0\EmployeeSalary.deps.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\bin\Debug\net10.0\EmployeeSalary.runtimeconfig.json
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\bin\Debug\net10.0\EmployeeSalary.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\bin\Debug\net10.0\EmployeeSalary.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\obj\Debug\net10.0\EmployeeSalary.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\obj\Debug\net10.0\refint\EmployeeSalary.dll
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\obj\Debug\net10.0\EmployeeSalary.pdb
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\obj\Debug\net10.0\EmployeeSalary.genruntimeconfig.cache
+C:\Users\Himanshu\OneDrive\Desktop\Capegemini_LeftShiftProgramme\Task1\EmployeeSalary\obj\Debug\net10.0\ref\EmployeeSalary.dll
